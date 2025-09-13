@@ -1,4 +1,4 @@
-# HealthCare-Management-[hospital_Image.pdf](https://github.com/user-attachments/files/22314865/hospital_Image.pdf)
+[hospital_Image.pdf](https://github.com/user-attachments/files/22314865/hospital_Image.pdf)
 
 Healthcare Management Dashboard | Power BI
 
